@@ -1,5 +1,7 @@
 # Meteo
 
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/todd-jiang-kZK-JFZ6WsE-unsplash.jpg)
+
 ## Iteration 1
 
 In `src/`, create a `Meteo` component that accepts a `city` prop and returning the following markup:
