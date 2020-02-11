@@ -1,5 +1,4 @@
 import React from "react";
-import Meteo from "./Meteo.js";
 
 class App extends React.Component {
   render() {
