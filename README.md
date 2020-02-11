@@ -2,6 +2,8 @@
 
 ![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/todd-jiang-kZK-JFZ6WsE-unsplash.jpg)
 
+![](https://s3-us-west-2.amazonaws.com/s.cdpn.io/67030/Screenshot%202020-02-11%20at%2014.55.02.png)
+
 ## Iteration 1
 
 In `src/`, create a `Meteo` component that accepts a `city` prop and returning the following markup:
