@@ -7,9 +7,9 @@ In `src/`, create a `Meteo` component that accepts a `city` prop and returning t
 ```html
 <div>
   <p>
-    In <strong>MYCITY</strong> it is actually:
+    In <strong>MYCITY</strong> it is currently:
     <img src="https://openweathermap.org/img/w/10d.png" /> (<button>
-      Update weather</button
+      Update now</button
     >)
   </p>
 </div>
@@ -98,4 +98,4 @@ Write a `updateWeather` method:
 1. that will generate a request to the API (cf. [`axios.get.then()`)](https://github.com/axios/axios)
 2. will update our state `icon` to the value returned by the API
 
-NB: That `updateWeather` needs to be called each time we click on the `Update weather button`.
+NB: That `updateWeather` needs to be called each time we click on the `Update now` button.
